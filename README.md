@@ -11,3 +11,4 @@ importance analysis suggest that Age and Income are the most important variables
 regarding religion and human behavior. This study is an application of machine learning in identifying the underlying patterns in the data of 30 countries participating in the 
 World Value Survey. The results from variable importance analysis and classification of imbalanced data provide valuable insights beneficial to theoreticians and researchers of social sciences.
 
+![image](https://github.com/ElahehJafarigol/Religious-Affiliation-in-the-Twenty-First-Century-/assets/64182149/c0acd53d-860e-4dcc-b628-65f22b6853d0)
